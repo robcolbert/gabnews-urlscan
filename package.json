@@ -1,0 +1,27 @@
+{
+  "name": "urlscan-api",
+  "version": "0.0.1",
+  "description": "Node.js interface to the urlscan.io API.",
+  "main": "urlscan-api.js",
+  "scripts": {
+    "test": "NODE_ENV=test mocha --recursive test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robcolbert/urlscan-api.git"
+  },
+  "keywords": [
+    "urlscan",
+    "urlscan.io",
+    "api"
+  ],
+  "author": "Rob Colbert <rob.colbert@openplatform.us>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/robcolbert/urlscan-api/issues"
+  },
+  "homepage": "https://github.com/robcolbert/urlscan-api#readme",
+  "dependencies": {
+    "request-promise-native": "^1.0.5"
+  }
+}
