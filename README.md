@@ -1,5 +1,5 @@
-GAB NEWS URL TOOLS URLSCAN API
-==============================
+Gab News URL Tools urlscan.io API
+=================================
 
 This module was created as the primary interface to urlscan.io for the gabne.ws URL shortener project. The urlscan.io service is used to scan submitted URLs for known hazards and reject those deemed to be hazardous.
 

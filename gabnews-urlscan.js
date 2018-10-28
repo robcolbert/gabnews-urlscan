@@ -39,7 +39,8 @@ class UrlScanner {
       headers: {
         'Content-Type': 'application/json',
         'API-Key': scanner.options.apiKey
-      }
+      },
+      json: true
     };
     return request(requestOptions);
   }
