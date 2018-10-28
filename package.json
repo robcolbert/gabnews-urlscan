@@ -1,6 +1,6 @@
 {
   "name": "gabnews-urlscan",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Node.js interface to the urlscan.io API for Gab News URL Tools.",
   "main": "gabnews-urlscan.js",
   "scripts": {
