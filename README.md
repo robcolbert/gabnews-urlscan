@@ -1,17 +1,17 @@
-URLSCAN.IO API
-==============
+GAB NEWS URL TOOLS URLSCAN API
+==============================
 
 This module was created as the primary interface to urlscan.io for the gabne.ws URL shortener project. The urlscan.io service is used to scan submitted URLs for known hazards and reject those deemed to be hazardous.
 
 ## Getting Started
 
-    $ npm install urlscan-api
+    $ npm install gabnews-urlscan
 
-This will install the `urlscan-api` module into your project and prepare it for use by also resolving it's dependencies.
+This will install the `gabnews-urlscan` module into your project and prepare it for use by also resolving it's dependencies.
 
-In your script(s) that want to make use of `urlscan-api`, it must be required and set to a local constant or variable:
+In your script(s) that want to make use of `gabnews-urlscan`, it must be required and set to a local constant or variable:
 
-    const urlscan = require('urlscan-api');
+    const urlscan = require('gabnews-urlscan');
 
 ## Initialize The API
 
